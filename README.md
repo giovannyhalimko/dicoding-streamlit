@@ -12,18 +12,18 @@ Ensure that you have the following installed:
 
 ## Setup Instructions
 
-### 1. Install required dependencies
+### 1. Navigate to the `dashboard` folder
+
+```bash
+cd dashboard
+```
+
+### 2. Install required dependencies
 
 Install all necessary Python packages by running the following command:
 
 ```bash
 pip install -r requirements.txt
-```
-
-### 2. Navigate to the `dashboard` folder
-
-```bash
-cd dashboard
 ```
 
 ### 3. Run the dashboard

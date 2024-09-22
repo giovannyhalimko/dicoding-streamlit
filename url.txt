@@ -2,4 +2,4 @@ Github URL
 https://github.com/giovannyhalimko/dicoding-streamlit
 
 Streamlid Cloud Deployment URL
-https://dicoding-app-ckfmqt83agkb89nokvdgkt.streamlit.app/
+https://giovannyhalimko.streamlit.app/
